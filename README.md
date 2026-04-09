@@ -11,7 +11,7 @@ In this workshop, you will be working on the product cards for a fictional furni
 1. Create a new repository under your GitHub account using this one as a template.
 2. Clone your repository down to your local machine.
 3. Open the cloned folder with VS Code.
-4. Live serve `index.html` to see an unstyled page for Furniture Emporium.
+4. Live serve `index.html` to see an unstyled page for Furniture Emporium!
 
 ## Instructions
 
